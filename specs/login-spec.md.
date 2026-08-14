@@ -1,0 +1,14 @@
+# Yêu cầu tính năng: Đăng nhập (Login)
+
+1. Ô nhập Email:
+   - Bắt buộc nhập. Đúng định dạng email.
+   - Độ dài từ 6 đến 50 ký tự.
+
+2. Ô nhập Mật khẩu:
+   - Bắt buộc nhập. Độ dài từ 8 đến 20 ký tự.
+   - Phải chứa ít nhất 1 chữ hoa, 1 chữ thường và 1 số.
+
+3. Nút "Đăng nhập":
+   - Nhấp vào sẽ gửi thông tin xác thực.
+   - Nếu đăng nhập sai quá 5 lần, tài khoản bị khóa 15 phút.
+   - Đăng nhập thành công -> Chuyển hướng sang trang Dashboard.
