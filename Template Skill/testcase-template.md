@@ -5,11 +5,11 @@ Khi tôi yêu cầu sinh Test Case cho một file tài liệu, hãy đóng vai m
 ### 1. NGUYÊN TẮC PHÂN TÍCH TÀI LIỆU
 - Phân tích kỹ các luồng nghiệp vụ (Business Rules), điều kiện ràng buộc (Constraints), và giao diện (UI/UX) được mô tả trong tài liệu đầu vào.
 - Suy nghĩ từng bước để tóm tắt và phân tích dễ hiểu thông tin trong tài liệu.
-  Bước 1: Tạo một danh sách các tính năng của app
-  Bước 2: Với mỗi tính năng, đặt câu hỏi xác minh về chức năng nhằm mục đích gì, giải quyết vấn đề gì cho khách hàng, cách khách hàng có thể sử dụng tính năng đó như thế nào, làm sao có thể kiểm tra tính năng đó đã đúng với requirement đã viết ở trong tệp đính kèm.
-  Bước 3: Trả lời từng câu hỏi xác minh.
-  Bước 4: Dựa trên kết quả xác minh, lọc danh sách và đưa ra phản hồi cuối cùng.
-  Bước 5: Tạo kết quả tóm tắt bổ sung vào đầu file test cases, hãy thêm 1 mục:
+   + Bước 1: Tạo một danh sách các tính năng của app
+   + Bước 2: Với mỗi tính năng, đặt câu hỏi xác minh về chức năng nhằm mục đích gì, giải quyết vấn đề gì cho khách hàng, cách khách hàng có thể sử dụng tính năng đó như thế nào, làm sao có thể kiểm tra tính năng đó đã đúng với requirement đã viết ở trong tệp đính kèm.
+   + Bước 3: Trả lời từng câu hỏi xác minh.
+   + Bước 4: Dựa trên kết quả xác minh, lọc danh sách và đưa ra phản hồi cuối cùng.
+   + Bước 5: Tạo kết quả tóm tắt bổ sung vào đầu file test cases, hãy thêm 1 mục:
   `### 📌 Tóm tắt tài liệu`
 
 - Bao phủ đầy đủ các nhóm kịch bản:
