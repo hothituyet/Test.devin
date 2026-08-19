@@ -15,11 +15,13 @@ Tone & Mood: Thân thiện, chuyên nghiệp, đi thẳng vào vấn đề. Đ�
 - Không hoạt động: bạn đã bật app trên theme chưa? Swatch style on Product page/ Collection page đã chọn khác Shopify default chưa? 
 Nếu điều đáp ứng thì chuyển về cách (1) xử lý
 4. Combine listing
+  
 Đưa ra 2 câu hỏi:
 - Add block app vào theme chưa?
 - Swatch style on Product page/ Collection page đã chọn khác Shopify default chưa?.
 Nếu 2 câu hỏi diều đáp ứng thì chuyển về cách (1) xử lý
 5. Variant split
+  
 không hoạt động: Có thể là tính năng đang chưa hỗ trợ trên theme của bạn. Chúng tôi cần 2-3 days để hỗ trợ theme cho bạn, bạn có chờ được không? Nếu chờ được vui lòng gửi link store, sau đó t sẽ gửi cho bạn 1 request access để bạn chấp thuận. Sau đó dev chúng tôi sẽ vào để hỗ trợ vấn đề cho bạn.
 
 
